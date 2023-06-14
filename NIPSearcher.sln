@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIPSearcher", "NIPSearcher\NIPSearcher.csproj", "{E7D53B63-BA66-470C-BF46-EDDD9E2485CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D53B63-BA66-470C-BF46-EDDD9E2485CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D53B63-BA66-470C-BF46-EDDD9E2485CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D53B63-BA66-470C-BF46-EDDD9E2485CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D53B63-BA66-470C-BF46-EDDD9E2485CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D98035-E413-4735-B4C8-BC77B72B347F}
+	EndGlobalSection
+EndGlobal
